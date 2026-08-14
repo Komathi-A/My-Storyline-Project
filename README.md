@@ -1,13 +1,8 @@
-<style>
-   video {
-			max-width: 100%;
-			height: auto;
-			display: block;
-			margin: 0 auto;
-		}
-        </style>
-<video autoplay>
-<source src="Time_Dilation.mp4" type="video/mp4"/>
-</video>
-Time Dilation Video Explaination
- 
+
+
+https://github.com/user-attachments/assets/bb73f02b-509f-4e4d-b22a-c28c4a02b241
+
+
+
+
+
